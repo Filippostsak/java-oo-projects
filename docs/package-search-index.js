@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"bankapp"},{"l":"bankapp.model"}];updateSearchResults();
