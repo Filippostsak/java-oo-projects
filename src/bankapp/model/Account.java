@@ -3,7 +3,7 @@ package bankapp.model;
 /**
  * The base class for a bank account.
  *
- * @author Your Name
+ * @author Tsakiris Filippos
  * @version 1.0
  */
 public class Account {

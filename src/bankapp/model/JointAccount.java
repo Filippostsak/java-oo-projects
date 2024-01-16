@@ -3,7 +3,7 @@ package bankapp.model;
 /**
  * A bank account with joint ownership.
  *
- * @author Your Name
+ * @author Tsakiris Filippos
  * @version 1.0
  */
 public class JointAccount extends Account {

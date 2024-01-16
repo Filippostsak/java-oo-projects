@@ -3,7 +3,7 @@ package bankapp.model;
 /**
  * A bank account that allows overdrafts.
  *
- * @author Your Name
+ * @author Tsakiris Filippos
  * @version 1.0
  */
 public class OverdraftAccount extends Account {
