@@ -1,5 +1,11 @@
 # Ignore everything
 /*
 
-# Include the src folder
+# Include specific folders and files
 !src/
+!docs/
+
+# Exclude build artifacts, IDE files, etc.
+/target/
+/.idea/
+*.iml
