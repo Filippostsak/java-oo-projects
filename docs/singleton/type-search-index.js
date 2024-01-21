@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"singleton","l":"AnotherKnight"},{"p":"singleton","l":"Main"},{"p":"singleton","l":"MissionBehavior"},{"p":"singleton","l":"SaintGeorgeKnight"}];updateSearchResults();
